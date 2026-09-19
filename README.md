@@ -1,6 +1,5 @@
 
 
-<img width="430" height="345" alt="Screenshot 2026-09-20 at 00 14 19" src="https://github.com/user-attachments/assets/4421349d-6b8e-4d36-b978-0ed0545c1030" />
 # 1D Ising Ring Model (Periodic Boundary Conditions)
 
 A high-performance C++ implementation of the 1D Ising Model on a ring topology using the Metropolis Monte Carlo algorithm.
